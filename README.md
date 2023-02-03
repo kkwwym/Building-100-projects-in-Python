@@ -4,7 +4,7 @@
 Welcome to the 100 Days of Code diary. I am going to attend Python Bootcamp which is consisted of 100 days, 1 project for each day, this is how I master Python. 
 Let's witness together. See how I learn data science, automation, build websites, games and apps!
 
-Bootcamp host by [Dr. Angela Yu](https://www.udemy.com/course/100-days-of-code/)
+
 
 |No.|Project|
 |:-:|:--|
