@@ -11,6 +11,6 @@ Let's witness together. See how I learn data science, automation, build websites
 |001|[Band Name Generator](https://github.com/kkwwym/Building-100-projects-in-Python/blob/main/100projects/Project%23001-Band_Name_Generator.ipynb)|
 |002|[Tip Calculator](https://github.com/kkwwym/Building-100-projects-in-Python/blob/main/100projects/Project%23002-Tip_Calculator.ipynb)|
 |003|[Treasure Island](https://github.com/kkwwym/Building-100-projects-in-Python/blob/main/100projects/Project%23003-Tresure_Island.ipynb)|
-
+|004|[Rock Paper Scissors](https://github.com/kkwwym/Building-100-projects-in-Python/blob/main/100projects/Project%23004-Rock_Paper_Scissors.ipynb)|
 #
 Bootcamp host by [Dr. Angela Yu](https://www.udemy.com/course/100-days-of-code/)
