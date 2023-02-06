@@ -12,5 +12,6 @@ Let's witness together. See how I learn data science, automation, build websites
 |002|[Tip Calculator](https://github.com/kkwwym/Building-100-projects-in-Python/blob/main/100projects/Project%23002-Tip_Calculator.ipynb)|
 |003|[Treasure Island](https://github.com/kkwwym/Building-100-projects-in-Python/blob/main/100projects/Project%23003-Tresure_Island.ipynb)|
 |004|[Rock Paper Scissors](https://github.com/kkwwym/Building-100-projects-in-Python/blob/main/100projects/Project%23004-Rock_Paper_Scissors.ipynb)|
+|005|[Password Generator](https://github.com/kkwwym/Building-100-projects-in-Python/blob/main/100projects/%20Project%23005-Password_Generator.ipynb)|
 #
 Bootcamp host by [Dr. Angela Yu](https://www.udemy.com/course/100-days-of-code/)
