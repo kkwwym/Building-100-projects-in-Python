@@ -1,8 +1,8 @@
 # Building 100 projects in Python
 
 ### Introduction
-Welcome to the 100 Days of Code diary. I am going to attend Python Bootcamp which is consisted of 100 days, 1 project for each day, this is how I master Python. 
-Let's witness together. See how I learn data science, automation, build websites, games and apps!
+Welcome to the 100 Days of Code diary. I am going to attend Python Bootcamp which is consisted of 100 days, 1 project for each day.  
+Let's witness together. See how I apply my ability for data science, automation, build websites, games and apps!
 
 
 
