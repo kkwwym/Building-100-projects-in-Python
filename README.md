@@ -1,6 +1,8 @@
 # Building 100 projects in Python
 
 ### Introduction
+- Start from February 2023
+
 Welcome to the 100 Days of Code diary. I am going to attend Python Bootcamp which is consisted of 100 days, 1 project for each day.  
 Let's witness together. See how I apply my ability for data science, automation, building websites, games and apps!
 
