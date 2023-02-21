@@ -19,5 +19,6 @@ Let's witness together. See how I apply my ability for data science, automation,
 |007|[Hangman](https://github.com/kkwwym/Building-100-projects-in-Python/blob/main/100projects/Project%23007-Hangman.ipynb)|
 |008|[Caesar Cipher](https://github.com/kkwwym/Building-100-projects-in-Python/blob/main/100projects/Project%23008-Caesar_Cipher.ipynb)|
 |009|[Blind Auction](https://github.com/kkwwym/Building-100-projects-in-Python/blob/main/100projects/Project%23009-Blind_Auction.ipynb)|
+|010|[Simple Calculator](https://github.com/kkwwym/Building-100-projects-in-Python/blob/main/100projects/Project%23010-Simple_Calculator%20.ipynb)|
 #
 Bootcamp host by [Dr. Angela Yu](https://www.udemy.com/course/100-days-of-code/)
